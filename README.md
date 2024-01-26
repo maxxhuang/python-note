@@ -7,6 +7,7 @@ https://docs.python.org/3/tutorial/venv.html
 ```bash
 $ pip install jupyter
 
+# go to the directory containing the notebook file (python-note.ipynb)
 $ jupyter notebook
 or
 $ jupyter lab
