@@ -1,4 +1,4 @@
-I take note of what I have learned when I was working on my last Python projects.
+I took note of what I have learned when I was working on my last Python project.
 
 ## Installation
 Running the notebook requires Python 3.10+. 
